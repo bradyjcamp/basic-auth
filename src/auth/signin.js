@@ -3,6 +3,7 @@
 const express = require('express');
 const bcrypt = require('bcrypt');
 const base64 = require('base-64');
+const Users = require('../models/usersShema');
 const { Sequelize, DataTypes } = require('sequelize');
 
 // Prepare the express app
