@@ -8,7 +8,7 @@ HTTP server for auth practice
 
 ## UML
 
-UML In Progess
+- ![UML](/basic-auth.png)
 
 ## Installation
 
