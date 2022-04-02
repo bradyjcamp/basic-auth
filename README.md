@@ -4,7 +4,7 @@ HTTP server for auth practice
 
 ## Deployed links:
 
-- [Heroku Link](https://basic-auth-bc.herokuapp.com/vehicles)
+- [Heroku Link](https://basic-auth-bs.herokuapp.com/)
 
 ## UML
 
